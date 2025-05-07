@@ -1,5 +1,3 @@
-Here's a professional and friendly `README.md` file for **The EveryCheese Project** based on your description:
-
 ---
 
 # 🧀 The EveryCheese Project
