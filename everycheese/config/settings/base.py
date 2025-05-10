@@ -51,7 +51,7 @@ DATABASES = {
     # DATABASE_URL=postgres://user:password@hostname_or_ip:port/database_name
     "default": env.db(
         "DATABASE_URL",
-        default="postgres:///everycheese",
+        default="postgres:///luciano-alfredo",
     )
 }
 DATABASES["default"]["ATOMIC_REQUESTS"] = True
